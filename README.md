@@ -2,4 +2,4 @@
 **Разработка россплатформенных приложений.**
 **Задание 2**
 
-![Screenshot](screenshot.png)
+![Screenshot](sceenshot.png)
